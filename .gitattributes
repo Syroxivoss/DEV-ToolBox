@@ -1,5 +1,5 @@
-*.go linguist-language=Go
-*.py linguist-language=Python
-*.mjs linguist-language=JavaScript
-Makefile linguist-language=Makefile
-README.md linguist-documentation
+*.go linguist-language=Go linguist-detectable=true
+*.py linguist-language=Python linguist-detectable=true
+*.mjs linguist-language=JavaScript linguist-detectable=true
+Makefile linguist-language=Makefile linguist-detectable=false
+README.md linguist-documentation linguist-detectable=false
