@@ -1,0 +1,5 @@
+*.go linguist-language=Go
+*.py linguist-language=Python
+*.mjs linguist-language=JavaScript
+Makefile linguist-language=Makefile
+README.md linguist-documentation
